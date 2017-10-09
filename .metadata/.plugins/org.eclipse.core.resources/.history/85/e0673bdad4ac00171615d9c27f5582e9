@@ -2,7 +2,7 @@ package com.imooc;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("JAVA CHANG WORLD!");
+		System.out.println("JAVA!");
 	}
 
 }
